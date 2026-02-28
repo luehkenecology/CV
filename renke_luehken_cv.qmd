@@ -1,5 +1,6 @@
 ---
 title: "Curriculum Vitae & List of Publications"
+output-file: index
 format:
   html:
     toc: true
