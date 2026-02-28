@@ -40,13 +40,13 @@ Research Group Arbovirus Ecology & Research Group Vector Control <br>
 
 ## Research Experience
 
-<strong>2022–present: Head of the Research Group Vector Control</strong>, Bernhard Nocht Institute for Tropical Medicine Hamburg.
+**2022–present:** **Head of the Research Group Vector Control**, Bernhard Nocht Institute for Tropical Medicine Hamburg.
 
-<strong>2020–present: Head of the BMBF Junior Research Group Arbovirus Ecology</strong>, Department of Arbovirology and Entomology, Bernhard Nocht Institute for Tropical Medicine Hamburg.
+**2020–present:** **Head of the BMBF Junior Research Group Arbovirus Ecology**, Department of Arbovirology and Entomology, Bernhard Nocht Institute for Tropical Medicine Hamburg.
 
-<strong>2019–2020: PostDoc</strong>, Research group Arbovirology, University of Hamburg.
+**2019–2020:** **PostDoc**, Research group Arbovirology, University of Hamburg.
 
-<strong>2015–2019: PostDoc</strong>, Research group Arbovirology, Bernhard Nocht Institute for Tropical Medicine Hamburg.
+**2015–2019:** **PostDoc**, Research group Arbovirology, Bernhard Nocht Institute for Tropical Medicine Hamburg.
 
 ---
 
@@ -74,123 +74,92 @@ Full list of publications available on [Google Scholar](https://scholar.google.c
 {{< include scholar_metrics.md >}}
 
 ### 2026
-101: Loc DH, Șuleşco T, Sauer FG, Schmidt-Chanasit J, Velavan TP, **Lühken R**. _Host-feeding patterns of mosquitoes across land use types and regions in Vietnam and
-its implications for mosquito-borne disease transmission_. Acta Trop. 2026
+101: Loc DH, Șuleşco T, Sauer FG, Schmidt-Chanasit J, Velavan TP, **Lühken R**. *Host-feeding patterns of mosquitoes across land use types and regions in Vietnam and its implications for mosquito-borne disease transmission*. Acta Trop. 2026
 Mar;275:108001. doi: [https://doi.org/10.1016/j.actatropica.2026.108001](https://doi.org/10.1016/j.actatropica.2026.108001).
 
 ### 2025
 100: Patzina-Mehling C, Kopp A, Rauhöft L, Șuleșco T, Jones TC, Drosten C, Sauer
-FG, **Lühken R**, Junglen S. _Genomic surveillance indicates high site-specific
-heterogeneity of West Nile virus in mosquitoes in rural regions of Germany
-across seasons_. One Health. 2025 Aug 21;21:101179. doi: [https://doi.org/10.1016/j.onehlt.2025.101179](https://doi.org/10.1016/j.onehlt.2025.101179).
+FG, **Lühken R**, Junglen S. *Genomic surveillance indicates high site-specific heterogeneity of West Nile virus in mosquitoes in rural regions of Germany across seasons*. One Health. 2025 Aug 21;21:101179. doi: [https://doi.org/10.1016/j.onehlt.2025.101179](https://doi.org/10.1016/j.onehlt.2025.101179).
 
 99: Agboli E, Zahouli JZB, Sauer FG, Sombie A, Biré YN, Adjobi CN, Cadar D,
 Horváth B, Tomazatos A, Schmidt-Chanasit J, **Lühken R**, Tóth GE, Badolo A, Jöst H.
-_Morphological and genetic heterogeneity in *Aedes aegypti* (Diptera:
-Culicidae) populations across diverse landscapes in West Africa_. Ecol Evol. 2025
+*Morphological and genetic heterogeneity in Aedes aegypti (Diptera: Culicidae) populations across diverse landscapes in West Africa*. Ecol Evol. 2025
 Dec 17;15(12):e72748. doi: [https://doi.org/10.1002/ece3.72748](https://doi.org/10.1002/ece3.72748).
 
-98: Nolte K, Baumbach J, Lins C, Lohmann JJG, Kollmannsberger P, Sauer FG, Lühken
-R. _Potentials and limitations in the application of convolutional neural
-networks for mosquito species identification using wing images_. PLoS Comput
+98: Nolte K, Baumbach J, Lins C, Lohmann JJG, Kollmannsberger P, Sauer FG, **Lühken R**. *Potentials and limitations in the application of convolutional neural networks for mosquito species identification using wing images*. PLoS Comput
 Biol. 2025 Sep 5;21(9):e1013435. doi: [https://doi.org/10.1371/journal.pcbi.1013435](https://doi.org/10.1371/journal.pcbi.1013435).
 
 97: Höller P, **Lühken R**, Sauer FG, Villacañas de Castro C, Becker N, Jöst H,
-Pfitzner WP, Schmidt-Chanasit J, Heitmann A, Jansen S. _Vector competence of
-mosquitoes from Europe for Tahyna virus_. Sci Rep. 2025 Jul 11;15(1):25092. doi: [https://doi.org/10.1038/s41598-025-10883-5](https://doi.org/10.1038/s41598-025-10883-5).
+Pfitzner WP, Schmidt-Chanasit J, Heitmann A, Jansen S. *Vector competence of mosquitoes from Europe for Tahyna virus*. Sci Rep. 2025 Jul 11;15(1):25092. doi: [https://doi.org/10.1038/s41598-025-10883-5](https://doi.org/10.1038/s41598-025-10883-5).
 
 96: Jansen S, **Lühken R**, Höller P, Mack A, Lange U, Jöst H, Becker N, Heitmann A.
-_Risk assessment of Oropouche virus transmission by mosquitoes in Europe_. J
+*Risk assessment of Oropouche virus transmission by mosquitoes in Europe*. J
 Infect Dis. 2025 Dec 20;232(6):e916-e919. doi: [https://doi.org/10.1093/infdis/jiaf356](https://doi.org/10.1093/infdis/jiaf356).
 
 95: Villacañas de Castro C, Musculus J, Timmermann E, **Lühken R**, Kiel E, Sauer FG.
-_Carry-over effects in Culex species along a land use gradient with differences
-in microclimatic conditions_. Parasit Vectors. 2025 Jul 4;18(1):256. doi: [https://doi.org/10.1186/s13071-025-06903-y](https://doi.org/10.1186/s13071-025-06903-y).
+*Carry-over effects in Culex species along a land use gradient with differences in microclimatic conditions*. Parasit Vectors. 2025 Jul 4;18(1):256. doi: [https://doi.org/10.1186/s13071-025-06903-y](https://doi.org/10.1186/s13071-025-06903-y).
 
-94: Hattendorf C, **Lühken R**. _Vectors, host range, and spatial distribution of
-Dirofilaria immitis and D. repens in Europe: a systematic review_. Infect Dis
+94: Hattendorf C, **Lühken R**. *Vectors, host range, and spatial distribution of Dirofilaria immitis and D. repens in Europe: a systematic review*. Infect Dis
 Poverty. 2025 Jul 2;14(1):58. doi: [https://doi.org/10.1186/s40249-025-01328-2](https://doi.org/10.1186/s40249-025-01328-2).
 
 93: Bourquia M, Zahri A, Ahlamine M, Balenghien T, Meyer P, Sauer FG, **Lühken R**.
-_First molecular confirmation of the presence of Hippobosca longipennis (Diptera:
-Hippoboscidae) and infestation of sheltered dogs in Morocco_. Parasit Vectors.
+*First molecular confirmation of the presence of Hippobosca longipennis (Diptera: Hippoboscidae) and infestation of sheltered dogs in Morocco*. Parasit Vectors.
 2025 May 27;18(1):193. doi: [https://doi.org/10.1186/s13071-025-06830-y](https://doi.org/10.1186/s13071-025-06830-y).
 
 92: Jansen S, Cadar D, Hey JC, Helms M, Lange U, Horváth B, Jöst H, Pfitzner
-W-P, Schmidt-Chanasit J, **Lühken R**, Heitmann A. _The impact of temperature and
-insect-specific viruses on the transmission of alphaviruses by *Aedes
-japonicus japonicus*_. Microbiol Spectr. 2025 Jun 3;13(6):e0266824. doi: [https://doi.org/10.1128/spectrum.02668-24](https://doi.org/10.1128/spectrum.02668-24).
+W-P, Schmidt-Chanasit J, **Lühken R**, Heitmann A. *The impact of temperature and insect-specific viruses on the transmission of alphaviruses by Aedes japonicus japonicus*. Microbiol Spectr. 2025 Jun 3;13(6):e0266824. doi: [https://doi.org/10.1128/spectrum.02668-24](https://doi.org/10.1128/spectrum.02668-24).
 
 91: Nolte K, Agboli E, Garcia GA, Badolo A, Becker N, Loc DH, Dworrak TV, Eguchi
 J, Eisenbarth A, de Freitas RM, Doumna-Ndalembouly AG, Heitmann A, Jansen S,
 Jöst A, Jöst H, Kiel E, Meyer A, Pfitzner WP, Saathoff J, Schmidt-Chanasit J,
 Sulesco T, Tokatlian A, Velavan TP, Villacañas de Castro C, Wehmeyer ML, Zahouli
-J, Sauer FG, **Lühken R**. _Comprehensive mosquito wing image repository for
-advancing research on geometric morphometric- and AI-Based identification_. Sci
+J, Sauer FG, **Lühken R**. *Comprehensive mosquito wing image repository for advancing research on geometric morphometric- and AI-Based identification*. Sci
 Data. 2025 Apr 29;12(1):715. doi: [https://doi.org/10.1038/s41597-025-05043-3](https://doi.org/10.1038/s41597-025-05043-3).
 
 ### 2024
 90: **Lühken R**, Rauhöft L, Pluskota B, Lange U, Helms M, Becker N, Schmidt-
-Chanasit J, Kuhn C, Tannich E, Jansen S, Heitmann A. _High vector competence for
-chikungunya virus but heavily reduced locomotor activity of Aedes albopictus
-from Germany at low temperatures_. Parasit Vectors. 2024 Dec 4;17(1):502. doi: [https://doi.org/10.1186/s13071-024-06594-x](https://doi.org/10.1186/s13071-024-06594-x).
+Chanasit J, Kuhn C, Tannich E, Jansen S, Heitmann A. *High vector competence for chikungunya virus but heavily reduced locomotor activity of Aedes albopictus from Germany at low temperatures*. Parasit Vectors. 2024 Dec 4;17(1):502. doi: [https://doi.org/10.1186/s13071-024-06594-x](https://doi.org/10.1186/s13071-024-06594-x).
 
 89: Schopf F, Sadeghi B, Bergmann F, Fischer D, Rahner R, Müller K, Günther A,
 Globig A, Keller M, Schwehn R, Guddorf V, Reuschel M, Fischer L, Krone O, Rinder
 M, Schütte K, Schmidt V, Heenemann K, Schwarzer A, Fast C, Sauter-Louis C,
 Staubach C, **Lühken R**, Schmidt-Chanasit J, Brandes F, Lierz M, Korbel R,
-Vahlenkamp TW, Groschup MH, Ziegler U. _Circulation of West Nile virus and Usutu
-virus in birds in Germany, 2021 and 2022_. Infect Dis (Lond). 2025
+Vahlenkamp TW, Groschup MH, Ziegler U. *Circulation of West Nile virus and Usutu virus in birds in Germany, 2021 and 2022*. Infect Dis (Lond). 2025
 Mar;57(3):256-277. doi: [https://doi.org/10.1080/23744235.2024.2419859](https://doi.org/10.1080/23744235.2024.2419859).
 
 88: Grabow M, Ullmann W, Landgraf C, Sollmann R, Scholz C, Nathan R, Toledo S,
 **Lühken R**, Fickel J, Jeltsch F, Blaum N, Radchuk V, Tiedemann R, Kramer-Schadt S.
-_Sick without signs. Subclinical infections reduce local movements, alter habitat
-selection, and cause demographic shifts_. Commun Biol. 2024 Nov 1;7(1):1426. doi: [https://doi.org/10.1038/s42003-024-07114-4](https://doi.org/10.1038/s42003-024-07114-4).
+*Sick without signs. Subclinical infections reduce local movements, alter habitat selection, and cause demographic shifts*. Commun Biol. 2024 Nov 1;7(1):1426. doi: [https://doi.org/10.1038/s42003-024-07114-4](https://doi.org/10.1038/s42003-024-07114-4).
 
 87: Hattendorf C, Cadar D, Bosch S, Becker N, Lachmann L, Schmidt-Chanasit J,
-Heitmann A, **Lühken R**. _Weak association of Usutu virus and haemosporidian
-infection in birds collected in Germany_. One Health. 2024 Aug 2;19:100868. doi: [https://doi.org/10.1016/j.onehlt.2024.100868](https://doi.org/10.1016/j.onehlt.2024.100868).
+Heitmann A, **Lühken R**. *Weak association of Usutu virus and haemosporidian infection in birds collected in Germany*. One Health. 2024 Aug 2;19:100868. doi: [https://doi.org/10.1016/j.onehlt.2024.100868](https://doi.org/10.1016/j.onehlt.2024.100868).
 
-86: Nolte K, Sauer FG, Baumbach J, Kollmannsberger P, Lins C, **Lühken R**. _Robust
-mosquito species identification from diverse body and wing images using deep
-learning_. Parasit Vectors. 2024 Sep 2;17(1):372. doi: [https://doi.org/10.1186/s13071-024-06459-3](https://doi.org/10.1186/s13071-024-06459-3).
+86: Nolte K, Sauer FG, Baumbach J, Kollmannsberger P, Lins C, **Lühken R**. *Robust mosquito species identification from diverse body and wing images using deep learning*. Parasit Vectors. 2024 Sep 2;17(1):372. doi: [https://doi.org/10.1186/s13071-024-06459-3](https://doi.org/10.1186/s13071-024-06459-3).
 
 85: Wehmeyer ML, Jaworski L, Jöst H, Șuleșco T, Rauhöft L, Afonso SMM, Neumann
-M, Kliemke K, Lange U, Kiel E, Schmidt-Chanasit J, Sauer FG, **Lühken R**. _Host
-attraction and host feeding patterns indicate generalist feeding of Culex
-pipiens s.s. and Cx. torrentium_. Parasit Vectors. 2024 Aug 30;17(1):369. doi: [https://doi.org/10.1186/s13071-024-06439-7](https://doi.org/10.1186/s13071-024-06439-7).
+M, Kliemke K, Lange U, Kiel E, Schmidt-Chanasit J, Sauer FG, **Lühken R**. *Host attraction and host feeding patterns indicate generalist feeding of Culex pipiens s.s. and Cx. torrentium*. Parasit Vectors. 2024 Aug 30;17(1):369. doi: [https://doi.org/10.1186/s13071-024-06439-7](https://doi.org/10.1186/s13071-024-06439-7).
 
 84: Vanslembrouck A, Jansen S, De Witte J, Janssens C, Vereecken S, Helms M,
-Lange U, **Lühken R**, Schmidt-Chanasit J, Heitmann A, Müller R. _Larval competition
-between *Aedes* and *Culex* mosquitoes carries over to higher
-arboviral infection during their adult stage_. Viruses. 2024 Jul 26;16(8):1202.
+Lange U, **Lühken R**, Schmidt-Chanasit J, Heitmann A, Müller R. *Larval competition between Aedes and Culex mosquitoes carries over to higher arboviral infection during their adult stage*. Viruses. 2024 Jul 26;16(8):1202.
 doi: [https://doi.org/10.3390/v16081202](https://doi.org/10.3390/v16081202).
 
 83: Rauhöft L, Șuleșco T, Martins Afonso SM, Schmidt-Chanasit J, Jöst H, Sauer
-FG, **Lühken R**. _Large-scale performance assessment of the BG-Counter 2 used with
-two different mosquito traps_. Parasit Vectors. 2024 Jun 27;17(1):273. doi: [https://doi.org/10.1186/s13071-024-06338-x](https://doi.org/10.1186/s13071-024-06338-x).
+FG, **Lühken R**. *Large-scale performance assessment of the BG-Counter 2 used with two different mosquito traps*. Parasit Vectors. 2024 Jun 27;17(1):273. doi: [https://doi.org/10.1186/s13071-024-06338-x](https://doi.org/10.1186/s13071-024-06338-x).
 
 82: Heitmann A, Wehmeyer ML, **Lühken R**, Kliemke K, Jöst H, Becker N, Helms M,
-Schmidt-Chanasit J, Jansen S. _Evaluation of the vector competence for Batai
-virus of native Culex and exotic Aedes species in Central Europe_. Parasit
+Schmidt-Chanasit J, Jansen S. *Evaluation of the vector competence for Batai virus of native Culex and exotic Aedes species in Central Europe*. Parasit
 Vectors. 2024 May 15;17(1):223. doi: [https://doi.org/10.1186/s13071-024-06296-4](https://doi.org/10.1186/s13071-024-06296-4).
 
 81: Maciel-de-Freitas R, Sauer FG, Kliemke K, Garcia GA, Pavan MG, David MR,
-Schmidt-Chanasit J, Hoffmann A, **Lühken R**. _*Wolbachia* strains *w*mel
-and *w*albb differentially affect *Aedes aegypti* traits related to
-fecundity_. Microbiol Spectr. 2024 Apr 2;12(4):e0012824. doi: [https://doi.org/10.1128/spectrum.00128-24](https://doi.org/10.1128/spectrum.00128-24).
+Schmidt-Chanasit J, Hoffmann A, **Lühken R**. *Wolbachia strains wmel and walbb differentially affect Aedes aegypti traits related to fecundity*. Microbiol Spectr. 2024 Apr 2;12(4):e0012824. doi: [https://doi.org/10.1128/spectrum.00128-24](https://doi.org/10.1128/spectrum.00128-24).
 
-80: Jansen S, Höller P, Helms M, Lange U, Becker N, Schmidt-Chanasit J, **Lühken R**, Heitmann A. _Mosquitoes from europe are able to transmit snowshoe hare virus_.
+80: Jansen S, Höller P, Helms M, Lange U, Becker N, Schmidt-Chanasit J, **Lühken R**, Heitmann A. *Mosquitoes from europe are able to transmit snowshoe hare virus*.
 Viruses. 2024 Jan 31;16(2):222. doi: [https://doi.org/10.3390/v16020222](https://doi.org/10.3390/v16020222).
 
-79: Sauer FG, Werny M, Nolte K, Villacañas de Castro C, Becker N, Kiel E, Lühken
-R. _A convolutional neural network to identify mosquito species (Diptera:
-Culicidae) of the genus Aedes by wing images_. Sci Rep. 2024 Feb 7;14(1):3094.
+79: Sauer FG, Werny M, Nolte K, Villacañas de Castro C, Becker N, Kiel E, **Lühken R**. *A convolutional neural network to identify mosquito species (Diptera: Culicidae) of the genus Aedes by wing images*. Sci Rep. 2024 Feb 7;14(1):3094.
 doi: [https://doi.org/10.1038/s41598-024-53631-x](https://doi.org/10.1038/s41598-024-53631-x).
 
-78: Duve P, Charles S, Munyakazi J, **Lühken R**, Witbooi P. _A mathematical model
-for malaria disease dynamics with vaccination and infected immigrants_. Math
+78: Duve P, Charles S, Munyakazi J, **Lühken R**, Witbooi P. *A mathematical model for malaria disease dynamics with vaccination and infected immigrants*. Math
 Biosci Eng. 2024 Jan;21(1):1082-1109. doi: [https://doi.org/10.3934/mbe.2024045](https://doi.org/10.3934/mbe.2024045).
 
 ### 2023
@@ -199,37 +168,27 @@ Biosci Eng. 2024 Jan;21(1):1082-1109. doi: [https://doi.org/10.3934/mbe.2024045]
 Heitmann A, **Lühken R**, Bañuls AL, Sereno D, Michelutti A, Toniolo F, Alarcón-
 Elbal PM, Bravo-Barriga D, González MA, Lucientes J, Colella V, Otranto D,
 Bezerra-Santos MA, Kunz G, Obwaller AG, Depaquit J, Alić A, Kasap OE, Alten B,
-Omeragic J, Volf P, Walochnik J, Sebestyén V, Trájer AJ. _Reconstructing the
-post-glacial spread of the sand fly Phlebotomus mascittii Grassi, 1908 (Diptera:
-Psychodidae) in Europe_. Commun Biol. 2023 Dec 8;6(1):1244. doi: [https://doi.org/10.1038/s42003-023-05616-1](https://doi.org/10.1038/s42003-023-05616-1).
+Omeragic J, Volf P, Walochnik J, Sebestyén V, Trájer AJ. *Reconstructing the post-glacial spread of the sand fly Phlebotomus mascittii Grassi, 1908 (Diptera: Psychodidae) in Europe*. Commun Biol. 2023 Dec 8;6(1):1244. doi: [https://doi.org/10.1038/s42003-023-05616-1](https://doi.org/10.1038/s42003-023-05616-1).
 
-76: **Lühken R**, Brattig N, Becker N. _Introduction of invasive mosquito species
-into Europe and prospects for arbovirus transmission and vector control in an
-era of globalization_. Infect Dis Poverty. 2023 Nov 30;12(1):109. doi: [https://doi.org/10.1186/s40249-023-01167-z](https://doi.org/10.1186/s40249-023-01167-z).
+76: **Lühken R**, Brattig N, Becker N. *Introduction of invasive mosquito species into Europe and prospects for arbovirus transmission and vector control in an era of globalization*. Infect Dis Poverty. 2023 Nov 30;12(1):109. doi: [https://doi.org/10.1186/s40249-023-01167-z](https://doi.org/10.1186/s40249-023-01167-z).
 
 75: Sauer FG, Pfitzner WP, Jöst H, Rauhöft L, Kliemke K, Lange U, Heitmann A,
-Jansen S, **Lühken R**. _Using geometric wing morphometrics to distinguish Aedes
-japonicus japonicus and Aedes koreicus_. Parasit Vectors. 2023 Nov 15;16(1):418.
+Jansen S, **Lühken R**. *Using geometric wing morphometrics to distinguish Aedes japonicus japonicus and Aedes koreicus*. Parasit Vectors. 2023 Nov 15;16(1):418.
 doi: [https://doi.org/10.1186/s13071-023-06038-y](https://doi.org/10.1186/s13071-023-06038-y).
 
 74: **Lühken R**, Becker N, Dyczko D, Sauer FG, Kliemke K, Schmidt-Chanasit J,
-Rydzanicz K. _First record of Anopheles (Anopheles) hyrcanus (Pallas 1771)
-(Diptera: Culicidae) in Poland_. Parasit Vectors. 2023 Oct 4;16(1):345. doi: [https://doi.org/10.1186/s13071-023-05974-z](https://doi.org/10.1186/s13071-023-05974-z).
+Rydzanicz K. *First record of Anopheles (Anopheles) hyrcanus (Pallas 1771) (Diptera: Culicidae) in Poland*. Parasit Vectors. 2023 Oct 4;16(1):345. doi: [https://doi.org/10.1186/s13071-023-05974-z](https://doi.org/10.1186/s13071-023-05974-z).
 
 73: Hounkanrin G, Tchibozo C, Sauer FG, Agboli E, Schmidt-Chanasit J, Yadouleton
-A, **Lühken R**, Jöst H. _Genetic diversity and wing geometric morphometrics among
-four populations of Aedes aegypti (Diptera: Culicidae) from Benin_. Parasit Vectors. 2023 Sep 9;16(1):320. doi: [https://doi.org/10.1186/s13071-023-05943-6](https://doi.org/10.1186/s13071-023-05943-6).
+A, **Lühken R**, Jöst H. *Genetic diversity and wing geometric morphometrics among four populations of Aedes aegypti (Diptera: Culicidae) from Benin*. Parasit Vectors. 2023 Sep 9;16(1):320. doi: [https://doi.org/10.1186/s13071-023-05943-6](https://doi.org/10.1186/s13071-023-05943-6).
 
 72: Sauer FG, Lange U, Schmidt-Chanasit J, Kiel E, Wiatrowska B, Myczko Ł,
-**Lühken R**. _Overwintering *Culex torrentium* in abandoned animal burrows as a
-reservoir for arboviruses in Central Europe_. One Health. 2023 May 29;16:100572.
+**Lühken R**. *Overwintering Culex torrentium in abandoned animal burrows as a reservoir for arboviruses in Central Europe*. One Health. 2023 May 29;16:100572.
 doi: [https://doi.org/10.1016/j.onehlt.2023.100572](https://doi.org/10.1016/j.onehlt.2023.100572).
 
 71: Jansen S, Heitmann A, Uusitalo R, Korhonen EM, **Lühken R**, Kliemke K, Lange U,
 Helms M, Kirjalainen L, Nykänen R, Gregow H, Pirinen P, Rossini G, Vapalahti O,
-Schmidt-Chanasit J, Huhtamo E. _Vector competence of northern European *Culex
-pipiens* biotype *pipiens* and *Culex torrentium* to West Nile
-virus and Sindbis virus_. Viruses. 2023 Feb 21;15(3):592. doi: [https://doi.org/10.3390/v15030592](https://doi.org/10.3390/v15030592).
+Schmidt-Chanasit J, Huhtamo E. *Vector competence of northern European Culex pipiens biotype pipiens and Culex torrentium to West Nile virus and Sindbis virus*. Viruses. 2023 Feb 21;15(3):592. doi: [https://doi.org/10.3390/v15030592](https://doi.org/10.3390/v15030592).
 
 70: Miranda MÁ, Barceló C, Arnoldi D, Augsten X, Bakran-Lebl K, Balatsos G,
 Bengoa M, Bindler P, Boršová K, Bourquia M, Bravo-Barriga D, Čabanová V, Caputo
@@ -243,103 +202,71 @@ Oteo JA, Oter K, Pajović I, Palmer JRB, Petrinic S, Răileanu C, Ries C, Rogozi
 E, Ruiz-Arrondo I, Sanpera-Calbet I, Sekulić N, Sevim K, Sherifi K, Silaghi C,
 Silva M, Sokolovska N, Soltész Z, Sulesco T, Šušnjar J, Teekema S, Valsecchi A,
 Vasquez MI, Velo E, Michaelakis A, Wint W, Petrić D, Schaffner F, Della Torre A;
-Consortium AIM-COST/AIM-Surv. _AIMSurv: first pan-European harmonized
-surveillance of *Aedes* invasive mosquito species of relevance for human
-vector-borne diseases_. GigaByte. 2022 May 31;2022:gigabyte57. doi: [https://doi.org/10.46471/gigabyte.57](https://doi.org/10.46471/gigabyte.57).
+Consortium AIM-COST/AIM-Surv. *AIMSurv: first pan-European harmonized surveillance of Aedes invasive mosquito species of relevance for human vector-borne diseases*. GigaByte. 2022 May 31;2022:gigabyte57. doi: [https://doi.org/10.46471/gigabyte.57](https://doi.org/10.46471/gigabyte.57).
 
-69: Tolsá-García MJ, Wehmeyer ML, **Lühken R**, Roiz D. _Worldwide transmission and
-infection risk of mosquito vectors of West Nile, St. Louis encephalitis, Usutu
-and Japanese encephalitis viruses: a systematic review_. Sci Rep. 2023 Jan
+69: Tolsá-García MJ, Wehmeyer ML, **Lühken R**, Roiz D. *Worldwide transmission and infection risk of mosquito vectors of West Nile, St. Louis encephalitis, Usutu and Japanese encephalitis viruses: a systematic review*. Sci Rep. 2023 Jan
 6;13(1):308. doi: [https://doi.org/10.1038/s41598-022-27236-1](https://doi.org/10.1038/s41598-022-27236-1).
 
 ### 2022
 68: Jansen S, **Lühken R**, Helms M, Pluskota B, Pfitzner WP, Oerther S, Becker N,
-Schmidt-Chanasit J, Heitmann A. _Vector competence of mosquitoes from Germany for
-sindbis virus_. Viruses. 2022 Nov 26;14(12):2644. doi: [https://doi.org/10.3390/v14122644](https://doi.org/10.3390/v14122644).
+Schmidt-Chanasit J, Heitmann A. *Vector competence of mosquitoes from Germany for Sindbis virus*. Viruses. 2022 Nov 26;14(12):2644. doi: [https://doi.org/10.3390/v14122644](https://doi.org/10.3390/v14122644).
 
 67: Tchibozo C, Hounkanrin G, Yadouleton A, Bialonski A, Agboli E, **Lühken R**,
-Schmidt-Chanasit J, Jöst H. _Surveillance of arthropod-borne viruses in Benin,
-West Africa 2020-2021: detection of dengue virus 3 in Aedes aegypti (Diptera:
-Culicidae)_. Mil Med Res. 2022 Nov 14;9(1):64. doi: [https://doi.org/10.1186/s40779-022-00425-9](https://doi.org/10.1186/s40779-022-00425-9).
+Schmidt-Chanasit J, Jöst H. *Surveillance of arthropod-borne viruses in Benin, West Africa 2020-2021: detection of dengue virus 3 in Aedes aegypti (Diptera: Culicidae)*. Mil Med Res. 2022 Nov 14;9(1):64. doi: [https://doi.org/10.1186/s40779-022-00425-9](https://doi.org/10.1186/s40779-022-00425-9).
 
 66: Agboli E, Tomazatos A, Maiga-Ascofaré O, May J, **Lühken R**, Schmidt-Chanasit
-J, Jöst H. _Arbovirus epidemiology: the mystery of unnoticed epidemics in Ghana,
-West Africa_. Microorganisms. 2022 Sep 27;10(10):1914. doi: [https://doi.org/10.3390/microorganisms10101914](https://doi.org/10.3390/microorganisms10101914).
+J, Jöst H. *Arbovirus epidemiology: the mystery of unnoticed epidemics in Ghana, West Africa*. Microorganisms. 2022 Sep 27;10(10):1914. doi: [https://doi.org/10.3390/microorganisms10101914](https://doi.org/10.3390/microorganisms10101914).
 
-65: Sauer FG, Kiel E, **Lühken R**. _Effects of mosquito resting site temperatures on
-the estimation of pathogen development rates in near-natural habitats in
-Germany_. Parasit Vectors. 2022 Oct 25;15(1):390. doi: [https://doi.org/10.1186/s13071-022-05505-2](https://doi.org/10.1186/s13071-022-05505-2).
+65: Sauer FG, Kiel E, **Lühken R**. *Effects of mosquito resting site temperatures on the estimation of pathogen development rates in near-natural habitats in Germany*. Parasit Vectors. 2022 Oct 25;15(1):390. doi: [https://doi.org/10.1186/s13071-022-05505-2](https://doi.org/10.1186/s13071-022-05505-2).
 
 64: Menegon M, Tomazatos A, Severini F, Raele DA, Lilja T, Werner D, Boccolini
-D, Toma L, Vasco I, **Lühken R**, Kampen H, Cafiero MA, Di Luca M. _Molecular
-characterization of *Anopheles algeriensis* theobald, 1903 (Diptera:
-Culicidae) populations from Europe_. Pathogens. 2022 Aug 30;11(9):990. doi: [https://doi.org/10.3390/pathogens11090990](https://doi.org/10.3390/pathogens11090990).
+D, Toma L, Vasco I, **Lühken R**, Kampen H, Cafiero MA, Di Luca M. *Molecular characterization of Anopheles algeriensis theobald, 1903 (Diptera: Culicidae) populations from Europe*. Pathogens. 2022 Aug 30;11(9):990. doi: [https://doi.org/10.3390/pathogens11090990](https://doi.org/10.3390/pathogens11090990).
 
-63: Sauer FG, Timmermann E, Lange U, **Lühken R**, Kiel E. _Effects of hibernation
-site, temperature, and humidity on the abundance and survival of overwintering
-Culex pipiens pipiens and Anopheles messeae (Diptera: Culicidae)_. J Med Entomol.
+63: Sauer FG, Timmermann E, Lange U, **Lühken R**, Kiel E. *Effects of hibernation site, temperature, and humidity on the abundance and survival of overwintering Culex pipiens pipiens and Anopheles messeae (Diptera: Culicidae)*. J Med Entomol.
 2022 Nov 16;59(6):2013-2021. doi: [https://doi.org/10.1093/jme/tjac139](https://doi.org/10.1093/jme/tjac139).
 
 62: Fynmore N, **Lühken R**, Kliemke K, Lange U, Schmidt-Chanasit J, Lurz PWW,
-Becker N. _Honey-baited FTA cards in box gravid traps for the assessment of Usutu
-virus circulation in mosquito populations in Germany_. Acta Trop. 2022
+Becker N. *Honey-baited FTA cards in box gravid traps for the assessment of Usutu virus circulation in mosquito populations in Germany*. Acta Trop. 2022
 Nov;235:106649. doi: [https://doi.org/10.1016/j.actatropica.2022.106649](https://doi.org/10.1016/j.actatropica.2022.106649).
 
 61: Becker N, Langentepe-Kong SM, Tokatlian Rodriguez A, Oo TT, Reichle D,
-**Lühken R**, Schmidt-Chanasit J, Lüthy P, Puggioli A, Bellini R. _Integrated control
-of Aedes albopictus in southwest Germany supported by the sterile insect
-technique_. Parasit Vectors. 2022 Jan 5;15(1):9. doi: [https://doi.org/10.1186/s13071-021-05112-7](https://doi.org/10.1186/s13071-021-05112-7).
+**Lühken R**, Schmidt-Chanasit J, Lüthy P, Puggioli A, Bellini R. *Integrated control of Aedes albopictus in southwest Germany supported by the sterile insect technique*. Parasit Vectors. 2022 Jan 5;15(1):9. doi: [https://doi.org/10.1186/s13071-021-05112-7](https://doi.org/10.1186/s13071-021-05112-7).
 
 60: Jansen S, Cadar D, **Lühken R**, Pfitzner WP, Jöst H, Oerther S, Helms M, Zibrat
-B, Kliemke K, Becker N, Vapalahti O, Rossini G, Heitmann A. _Vector competence of
-the invasive mosquito species *Aedes koreicus* for arboviruses and
-interference with a novel insect specific virus_. Viruses. 2021 Dec
+B, Kliemke K, Becker N, Vapalahti O, Rossini G, Heitmann A. *Vector competence of the invasive mosquito species Aedes koreicus for arboviruses and interference with a novel insect specific virus*. Viruses. 2021 Dec
 14;13(12):2507. doi: [https://doi.org/10.3390/v13122507](https://doi.org/10.3390/v13122507).
 
-59: Jaworski L, Sauer F, Jansen S, Tannich E, Schmidt-Chanasit J, Kiel E, Lühken
-R. _Artificial resting sites: an alternative sampling method for adult
-mosquitoes_. Med Vet Entomol. 2022 Jun;36(2):139-148. doi: [https://doi.org/10.1111/mve.12559](https://doi.org/10.1111/mve.12559).
+59: Jaworski L, Sauer F, Jansen S, Tannich E, Schmidt-Chanasit J, Kiel E, **Lühken R**. *Artificial resting sites: an alternative sampling method for adult mosquitoes*. Med Vet Entomol. 2022 Jun;36(2):139-148. doi: [https://doi.org/10.1111/mve.12559](https://doi.org/10.1111/mve.12559).
 
-58: Șuleșco T, Bușmachiu G, Lange U, Schmidt-Chanasit J, **Lühken R**. _The first
-record of the invasive mosquito species Aedes albopictus in Chișinău, Republic
-of Moldova, 2020_. Parasit Vectors. 2021 Nov 3;14(1):565. doi: [https://doi.org/10.1186/s13071-021-05060-2](https://doi.org/10.1186/s13071-021-05060-2).
+58: Șuleșco T, Bușmachiu G, Lange U, Schmidt-Chanasit J, **Lühken R**. *The first record of the invasive mosquito species Aedes albopictus in Chișinău, Republic of Moldova, 2020*. Parasit Vectors. 2021 Nov 3;14(1):565. doi: [https://doi.org/10.1186/s13071-021-05060-2](https://doi.org/10.1186/s13071-021-05060-2).
 
 ### 2021
 57: Fynmore N, **Lühken R**, Maisch H, Risch T, Merz S, Kliemke K, Ziegler U,
-Schmidt-Chanasit J, Becker N. _Rapid assessment of West Nile virus circulation in
-a German zoo based on honey-baited FTA cards in combination with box gravid
-traps_. Parasit Vectors. 2021 Sep 6;14(1):449. doi: [https://doi.org/10.1186/s13071-021-04951-8](https://doi.org/10.1186/s13071-021-04951-8).
+Schmidt-Chanasit J, Becker N. *Rapid assessment of West Nile virus circulation in a German zoo based on honey-baited FTA cards in combination with box gravid traps*. Parasit Vectors. 2021 Sep 6;14(1):449. doi: [https://doi.org/10.1186/s13071-021-04951-8](https://doi.org/10.1186/s13071-021-04951-8).
 
 56: Tomazatos A, von Possel R, Pekarek N, Holm T, Rieger T, Baum H, Bialonski A,
 Maranda I, Erdelyi-Molnár I, Spînu M, **Lühken R**, Jansen S, Emmerich P, Schmidt-
-Chanasit J, Cadar D. _Discovery and genetic characterization of a novel
-orthonairovirus in Ixodes ricinus ticks from Danube Delta_. Infect Genet Evol.
+Chanasit J, Cadar D. *Discovery and genetic characterization of a novel orthonairovirus in Ixodes ricinus ticks from Danube Delta*. Infect Genet Evol.
 2021 Mar;88:104704. doi: [https://doi.org/10.1016/j.meegid.2021.104704](https://doi.org/10.1016/j.meegid.2021.104704).
 
-55: Sauer FG, Grave J, **Lühken R**, Kiel E. _Habitat and microclimate affect the
-resting site selection of mosquitoes_. Med Vet Entomol. 2021 Sep;35(3):379-388.
+55: Sauer FG, Grave J, **Lühken R**, Kiel E. *Habitat and microclimate affect the resting site selection of mosquitoes*. Med Vet Entomol. 2021 Sep;35(3):379-388.
 doi: [https://doi.org/10.1111/mve.12506](https://doi.org/10.1111/mve.12506).
 
 ### 2020
 54: Sauer FG, Jaworski L, Erdbeer L, Heitmann A, Schmidt-Chanasit J, Kiel E,
-**Lühken R**. _Geometric morphometric wing analysis represents a robust tool to
-identify female mosquitoes (Diptera: Culicidae) in Germany_. Sci Rep. 2020 Oct
+**Lühken R**. *Geometric morphometric wing analysis represents a robust tool to identify female mosquitoes (Diptera: Culicidae) in Germany*. Sci Rep. 2020 Oct
 19;10(1):17613. doi: [https://doi.org/10.1038/s41598-020-72873-z](https://doi.org/10.1038/s41598-020-72873-z).
 
-53: Sauer FG, Jaworski L, **Lühken R**, Kiel E. _Impacts of sampling rhythm and
-exposition on the effectiveness of artificial resting shelters for mosquito
-collection in northern Germany_. J Vector Ecol. 2020 Jun;45(1):142-146. doi: [https://doi.org/10.1111/jvec.12383](https://doi.org/10.1111/jvec.12383).
+53: Sauer FG, Jaworski L, **Lühken R**, Kiel E. *Impacts of sampling rhythm and exposition on the effectiveness of artificial resting shelters for mosquito collection in northern Germany*. J Vector Ecol. 2020 Jun;45(1):142-146. doi: [https://doi.org/10.1111/jvec.12383](https://doi.org/10.1111/jvec.12383).
 
 52: Ziegler U, Santos PD, Groschup MH, Hattendorf C, Eiden M, Höper D, Eisermann
 P, Keller M, Michel F, Klopfleisch R, Müller K, Werner D, Kampen H, Beer M,
 Frank C, Lachmann R, Tews BA, Wylezich C, Rinder M, Lachmann L, Grünewald T,
-Szentiks CA, Sieg M, Schmidt-Chanasit J, Cadar D, **Lühken R**. _West Nile virus
-epidemic in Germany triggered by epizootic emergence, 2019_. Viruses. 2020 Apr
+Szentiks CA, Sieg M, Schmidt-Chanasit J, Cadar D, **Lühken R**. *West Nile virus epidemic in Germany triggered by epizootic emergence, 2019*. Viruses. 2020 Apr
 15;12(4):448. doi: [https://doi.org/10.3390/v12040448](https://doi.org/10.3390/v12040448).
 
 51: Oerther S, Jöst H, Heitmann A, **Lühken R**, Krüger A, Steinhausen I, Brinker C,
-Lorentz S, Marx M, Schmidt-Chanasit J, Naucke T, Becker N. _Phlebotomine sand
-flies in southwest Germany: an update with records in new locations_. Parasit
+Lorentz S, Marx M, Schmidt-Chanasit J, Naucke T, Becker N. *Phlebotomine sand flies in southwest Germany: an update with records in new locations*. Parasit
 Vectors. 2020 Apr 21;13(1):173. doi: [https://doi.org/10.1186/s13071-020-04058-6](https://doi.org/10.1186/s13071-020-04058-6).
 
 50: Cuéllar AC, Kjær LJ, Baum A, Stockmarr A, Skovgard H, Nielsen SA, Andersson
@@ -348,73 +275,52 @@ FJ, Larska M, Smreczak M, Orłowska A, Hamnes I, Sviland S, Hopp P, Brugger K,
 Rubel F, Balenghien T, Garros C, Rakotoarivony I, Allène X, Lhoir J, Chavernac
 D, Delécolle JC, Mathieu B, Delécolle D, Setier-Rio ML, Scheid B, Chueca MÁM,
 Barceló C, Lucientes J, Estrada R, Mathis A, Venail R, Tack W, Bødker R.
-_Modelling the monthly abundance of Culicoides biting midges in nine European
-countries using random forests machine learning_. Parasit Vectors. 2020 Apr
+*Modelling the monthly abundance of Culicoides biting midges in nine European countries using random forests machine learning*. Parasit Vectors. 2020 Apr
 15;13(1):194. doi: [https://doi.org/10.1186/s13071-020-04053-x](https://doi.org/10.1186/s13071-020-04053-x).
 
 49: Parry R, Naccache F, Ndiaye EH, Fall G, Castelli I, **Lühken R**, Medlock J,
 Cull B, Hesson JC, Montarsi F, Failloux AB, Kohl A, Schnettler E, Diallo M,
-Asgari S, Dietrich I, Becker SC. _Identification and RNAi profile of a novel
-iflavirus infecting senegalese *Aedes vexans arabiensis* mosquitoes_.
+Asgari S, Dietrich I, Becker SC. *Identification and RNAi profile of a novel iflavirus infecting senegalese Aedes vexans arabiensis mosquitoes*.
 Viruses. 2020 Apr 14;12(4):440. doi: [https://doi.org/10.3390/v12040440](https://doi.org/10.3390/v12040440).
 
-48: Tomazatos A, Marschang RE, Maranda I, Baum H, Bialonski A, Spînu M, Lühken
-R, Schmidt-Chanasit J, Cadar D. _Letea virus: comparative genomics and
-phylogenetic analysis of a novel reassortant orbivirus discovered in grass
-snakes (*Natrix natrix*)_. Viruses. 2020 Feb 21;12(2):243. doi: [https://doi.org/10.3390/v12020243](https://doi.org/10.3390/v12020243).
+48: Tomazatos A, Marschang RE, Maranda I, Baum H, Bialonski A, Spînu M, **Lühken R**, Schmidt-Chanasit J, Cadar D. *Letea virus: comparative genomics and phylogenetic analysis of a novel reassortant orbivirus discovered in grass snakes (Natrix natrix)*. Viruses. 2020 Feb 21;12(2):243. doi: [https://doi.org/10.3390/v12020243](https://doi.org/10.3390/v12020243).
 
-47: Tomazatos A, Jöst H, Schulze J, Spînu M, Schmidt-Chanasit J, Cadar D, Lühken
-R. _Blood-meal analysis of Culicoides (Diptera: Ceratopogonidae) reveals a broad
-host range and new species records for Romania_. Parasit Vectors. 2020 Feb
+47: Tomazatos A, Jöst H, Schulze J, Spînu M, Schmidt-Chanasit J, Cadar D, **Lühken R**. *Blood-meal analysis of Culicoides (Diptera: Ceratopogonidae) reveals a broad host range and new species records for Romania*. Parasit Vectors. 2020 Feb
 17;13(1):79. doi: [https://doi.org/10.1186/s13071-020-3938-1](https://doi.org/10.1186/s13071-020-3938-1).
 
 46: **Lühken R**, Heitmann A, Jansen S, Schmidt-Chanasit J, Börstler J, Werner D,
 Kampen H, Kuhn C, Pluskota B, Ferstl I, Jöst A, Becker N, Tannich E.
-_Microsatellite typing of Aedes albopictus (Diptera: Culicidae) populations from
-Germany suggests regular introductions_. Infect Genet Evol. 2020 Jul;81:104237.
+*Microsatellite typing of Aedes albopictus (Diptera: Culicidae) populations from Germany suggests regular introductions*. Infect Genet Evol. 2020 Jul;81:104237.
 doi: [https://doi.org/10.1016/j.meegid.2020.104237](https://doi.org/10.1016/j.meegid.2020.104237).
 
 ### 2019
 45: Tomazatos A, Jansen S, Pfister S, Török E, Maranda I, Horváth C, Keresztes
-L, Spînu M, Tannich E, Jöst H, Schmidt-Chanasit J, Cadar D, **Lühken R**. _Ecology of
-West Nile virus in the Danube Delta, Romania: phylogeography, xenosurveillance
-and mosquito host-feeding patterns_. Viruses. 2019 Dec 14;11(12):1159. doi: [https://doi.org/10.3390/v11121159](https://doi.org/10.3390/v11121159).
+L, Spînu M, Tannich E, Jöst H, Schmidt-Chanasit J, Cadar D, **Lühken R**. *Ecology of West Nile virus in the Danube Delta, Romania: phylogeography, xenosurveillance and mosquito host-feeding patterns*. Viruses. 2019 Dec 14;11(12):1159. doi: [https://doi.org/10.3390/v11121159](https://doi.org/10.3390/v11121159).
 
 44: Wichers JS, Scholz JAM, Strauss J, Witt S, Lill A, Ehnold LI, Neupert N,
 Liffner B, **Lühken R**, Petter M, Lorenzen S, Wilson DW, Löw C, Lavazec C,
-Bruchhaus I, Tannich E, Gilberger TW, Bachmann A. _Dissecting the gene
-expression, localization, membrane topology, and function of the Plasmodium
-falciparum STEVOR protein family*. mbio. 2019 Jul 30;10(4):e01500-19. doi: [https://doi.org/10.1128/mbio.01500-19](https://doi.org/10.1128/mbio.01500-19).
+Bruchhaus I, Tannich E, Gilberger TW, Bachmann A. *Dissecting the gene expression, localization, membrane topology, and function of the Plasmodium falciparum STEVOR protein family*. mbio. 2019 Jul 30;10(4):e01500-19. doi: [https://doi.org/10.1128/mbio.01500-19](https://doi.org/10.1128/mbio.01500-19). 
 
-43: Michel F, Sieg M, Fischer D, Keller M, Eiden M, Reuschel M, Schmidt V,
-Schwehn R, Rinder M, Urbaniak S, Müller K, Schmoock M, *Lühken R*, Wysocki P, Fast
-C, Lierz M, Korbel R, Vahlenkamp TW, Groschup MH, Ziegler U. *Evidence for West
-Nile virus and Usutu virus infections in wild and resident birds in Germany,
-2017 and 2018_. Viruses. 2019 Jul 23;11(7):674. doi: [https://doi.org/10.3390/v11070674](https://doi.org/10.3390/v11070674).
+43: Michel F, Sieg M, Fischer D, Keller M, Eiden M, Reuschel M, Schmidt V, Schwehn R, Rinder M, Urbaniak S, Müller K, Schmoock M, **Lühken R**, Wysocki P, Fast C, Lierz M, Korbel R, Vahlenkamp TW, Groschup MH, Ziegler U. Evidence for West Nile virus and Usutu virus infections in wild and resident birds in Germany, 2017 and 2018*. Viruses. 2019 Jul 23;11(7):674. doi: [https://doi.org/10.3390/v11070674](https://doi.org/10.3390/v11070674).
 
 42: Jaworski L, Jansen S, Pfitzner WP, Beck M, Becker N, Schmidt-Chanasit J,
-Kiel E, **Lühken R**. _Comparative analysis of subsampling methods for large mosquito
-samples_. Parasit Vectors. 2019 Jul 16;12(1):354. doi: [https://doi.org/10.1186/s13071-019-3606-5](https://doi.org/10.1186/s13071-019-3606-5).
+Kiel E, **Lühken R**. *Comparative analysis of subsampling methods for large mosquito samples*. Parasit Vectors. 2019 Jul 16;12(1):354. doi: [https://doi.org/10.1186/s13071-019-3606-5](https://doi.org/10.1186/s13071-019-3606-5).
 
 41: Jansen S, Heitmann A, **Lühken R**, Leggewie M, Helms M, Badusche M, Rossini G,
-Schmidt-Chanasit J, Tannich E. _*Culex torrentium*: a potent vector for the
-transmission of West Nile virus in Central Europe_. Viruses. 2019 May
+Schmidt-Chanasit J, Tannich E. *Culex torrentium: a potent vector for the transmission of West Nile virus in Central Europe*. Viruses. 2019 May
 29;11(6):492. doi: [https://doi.org/10.3390/v11060492](https://doi.org/10.3390/v11060492).
 
 40: Drehmann M, Chitimia-Dobler L, Lindau A, Frank A, Mai S, Fachet K, Hauck D,
-Knoll S, Strube C, **Lühken R**, Fischer D, Ziegler L, Mackenstedt U. _Ixodes
-frontalis: a neglected but ubiquitous tick species in Germany_. Exp Appl Acarol.
+Knoll S, Strube C, **Lühken R**, Fischer D, Ziegler L, Mackenstedt U. *Ixodes frontalis: a neglected but ubiquitous tick species in Germany*. Exp Appl Acarol.
 2019 May;78(1):79-91. doi: [https://doi.org/10.1007/s10493-019-00375-3](https://doi.org/10.1007/s10493-019-00375-3).
 
 ### 2018
 39: Shahhosseini N, Friedrich J, Moosa-Kazemi SH, Sedaghat MM, Kayedi MH,
-Tannich E, Schmidt-Chanasit J, **Lühken R**. _Host-feeding patterns of Culex
-mosquitoes in Iran_. Parasit Vectors. 2018 Dec 27;11(1):669. doi: [https://doi.org/10.1186/s13071-018-3237-2](https://doi.org/10.1186/s13071-018-3237-2).
+Tannich E, Schmidt-Chanasit J, **Lühken R**. *Host-feeding patterns of Culex mosquitoes in Iran*. Parasit Vectors. 2018 Dec 27;11(1):669. doi: [https://doi.org/10.1186/s13071-018-3237-2](https://doi.org/10.1186/s13071-018-3237-2).
 
 38: Ziegler U, **Lühken R**, Keller M, Cadar D, van der Grinten E, Michel F,
 Albrecht K, Eiden M, Rinder M, Lachmann L, Höper D, Vina-Rodriguez A, Gaede W,
-Pohl A, Schmidt-Chanasit J, Groschup MH. _West Nile virus epizootic in Germany,
-2018_. Antiviral Res. 2019 Feb;162:39-43. doi: [https://doi.org/10.1016/j.antiviral.2018.12.005](https://doi.org/10.1016/j.antiviral.2018.12.005).
+Pohl A, Schmidt-Chanasit J, Groschup MH. *West Nile virus epizootic in Germany, 2018*. Antiviral Res. 2019 Feb;162:39-43. doi: [https://doi.org/10.1016/j.antiviral.2018.12.005](https://doi.org/10.1016/j.antiviral.2018.12.005).
 
 37: Cuéllar AC, Jung Kjær L, Baum A, Stockmarr A, Skovgard H, Nielsen SA,
 Andersson MG, Lindström A, Chirico J, **Lühken R**, Steinke S, Kiel E, Gethmann J,
@@ -422,182 +328,134 @@ Conraths FJ, Larska M, Smreczak M, Orłowska A, Hamnes I, Sviland S, Hopp P,
 Brugger K, Rubel F, Balenghien T, Garros C, Rakotoarivony I, Allène X, Lhoir J,
 Chavernac D, Delécolle JC, Mathieu B, Delécolle D, Setier-Rio ML, Venail R,
 Scheid B, Chueca MÁM, Barceló C, Lucientes J, Estrada R, Mathis A, Tack W,
-Bødker R. _Monthly variation in the probability of presence of adult Culicoides
-populations in nine European countries and the implications for targeted
-surveillance_. Parasit Vectors. 2018 Nov 29;11(1):608. doi: [https://doi.org/10.1186/s13071-018-3182-0](https://doi.org/10.1186/s13071-018-3182-0).
+Bødker R. *Monthly variation in the probability of presence of adult Culicoides populations in nine European countries and the implications for targeted surveillance*. Parasit Vectors. 2018 Nov 29;11(1):608. doi: [https://doi.org/10.1186/s13071-018-3182-0](https://doi.org/10.1186/s13071-018-3182-0).
 
 36: Jansen S, Heitmann A, **Lühken R**, Jöst H, Helms M, Vapalahti O, Schmidt-
-Chanasit J, Tannich E. _Experimental transmission of Zika virus by Aedes
-japonicus japonicus from southwestern Germany_. Emerg Microbes Infect. 2018 Nov
+Chanasit J, Tannich E. *Experimental transmission of Zika virus by Aedes japonicus japonicus from southwestern Germany*. Emerg Microbes Infect. 2018 Nov
 28;7(1):192. doi: [https://doi.org/10.1038/s41426-018-0195-x](https://doi.org/10.1038/s41426-018-0195-x).
 
 35: Cheng Y, Tjaden NB, Jaeschke A, **Lühken R**, Ziegler U, Thomas SM,
-Beierkuhnlein C. _Evaluating the risk for Usutu virus circulation in Europe:
-comparison of environmental niche models and epidemiological models_. Int J
+Beierkuhnlein C. *Evaluating the risk for Usutu virus circulation in Europe: comparison of environmental niche models and epidemiological models*. Int J
 Health Geogr. 2018 Oct 12;17(1):35. doi: [https://doi.org/10.1186/s12942-018-0155-7](https://doi.org/10.1186/s12942-018-0155-7).
 
 34: Heitmann A, Jansen S, **Lühken R**, Leggewie M, Schmidt-Chanasit J, Tannich E.
-_Forced salivation as a method to analyze vector competence of mosquitoes_. J Vis
+*Forced salivation as a method to analyze vector competence of mosquitoes*. J Vis
 Exp. 2018 Aug 7;(138):57980. doi: [https://doi.org/10.3791/57980](https://doi.org/10.3791/57980).
 
 33: Heitmann A, Jansen S, **Lühken R**, Helms M, Pluskota B, Becker N, Kuhn C,
-Schmidt-Chanasit J, Tannich E. _Experimental risk assessment for chikungunya
-virus transmission based on vector competence, distribution and temperature
-suitability in Europe, 2018_. Euro Surveill. 2018 Jul;23(29):1800033. doi: [https://doi.org/10.2807/1560-7917.ES.2018.23.29.1800033](https://doi.org/10.2807/1560-7917.ES.2018.23.29.1800033).
+Schmidt-Chanasit J, Tannich E. *Experimental risk assessment for chikungunya virus transmission based on vector competence, distribution and temperature suitability in Europe, 2018*. Euro Surveill. 2018 Jul;23(29):1800033. doi: [https://doi.org/10.2807/1560-7917.ES.2018.23.29.1800033](https://doi.org/10.2807/1560-7917.ES.2018.23.29.1800033).
 
 32: Tomazatos A, Cadar D, Török E, Maranda I, Horváth C, Keresztes L, Spinu M,
-Jansen S, Jöst H, Schmidt-Chanasit J, Tannich E, **Lühken R**. _Circulation of
-Dirofilaria immitis and Dirofilaria repens in the Danube Delta Biosphere
-Reserve, Romania_. Parasit Vectors. 2018 Jul 4;11(1):392. doi: [https://doi.org/10.1186/s13071-018-2980-8](https://doi.org/10.1186/s13071-018-2980-8).
+Jansen S, Jöst H, Schmidt-Chanasit J, Tannich E, **Lühken R**. *Circulation of Dirofilaria immitis and Dirofilaria repens in the Danube Delta Biosphere Reserve, Romania*. Parasit Vectors. 2018 Jul 4;11(1):392. doi: [https://doi.org/10.1186/s13071-018-2980-8](https://doi.org/10.1186/s13071-018-2980-8).
 
 31: Cuéllar AC, Kjær LJ, Kirkeby C, Skovgard H, Nielsen SA, Stockmarr A,
 Andersson G, Lindstrom A, Chirico J, **Lühken R**, Steinke S, Kiel E, Gethmann J,
 Conraths FJ, Larska M, Hamnes I, Sviland S, Hopp P, Brugger K, Rubel F,
 Balenghien T, Garros C, Rakotoarivony I, Allène X, Lhoir J, Chavernac D,
 Delécolle JC, Mathieu B, Delécolle D, Setier-Rio ML, Venail R, Scheid B, Chueca
-MÁM, Barceló C, Lucientes J, Estrada R, Mathis A, Tack W, Bødker R. _Spatial and
-temporal variation in the abundance of Culicoides biting midges (Diptera:
-Ceratopogonidae) in nine European countries_. Parasit Vectors. 2018 Feb
+MÁM, Barceló C, Lucientes J, Estrada R, Mathis A, Tack W, Bødker R. *Spatial and temporal variation in the abundance of Culicoides biting midges (Diptera: Ceratopogonidae) in nine European countries*. Parasit Vectors. 2018 Feb
 27;11(1):112. doi: [https://doi.org/10.1186/s13071-018-2706-y](https://doi.org/10.1186/s13071-018-2706-y).
 
 30: Michel F, Fischer D, Eiden M, Fast C, Reuschel M, Müller K, Rinder M,
-Urbaniak S, Brandes F, Schwehn R, **Lühken R**, Groschup MH, Ziegler U. _West Nile
-virus and Usutu virus monitoring of wild birds in Germany_. Int J Environ Res
+Urbaniak S, Brandes F, Schwehn R, **Lühken R**, Groschup MH, Ziegler U. *West Nile virus and Usutu virus monitoring of wild birds in Germany*. Int J Environ Res
 Public Health. 2018 Jan 22;15(1):171. doi: [https://doi.org/10.3390/ijerph15010171](https://doi.org/10.3390/ijerph15010171).
 
 ### 2017
 29: **Lühken R**, Jöst H, Cadar D, Thomas SM, Bosch S, Tannich E, Becker N, Ziegler
-U, Lachmann L, Schmidt-Chanasit J. _Distribution of Usutu virus in Germany and
-its effect on breeding bird populations_. Emerg Infect Dis. 2017
+U, Lachmann L, Schmidt-Chanasit J. *Distribution of Usutu virus in Germany and its effect on breeding bird populations*. Emerg Infect Dis. 2017
 Dec;23(12):1994-2001. doi: [https://doi.org/10.3201/eid2312.171257](https://doi.org/10.3201/eid2312.171257).
 
 28: Shahhosseini N, **Lühken R**, Jöst H, Jansen S, Börstler J, Rieger T, Krüger A,
 Yadouleton A, de Mendonça Campos R, Cirne-Santos CC, Ferreira DF, Garms R,
-Becker N, Tannich E, Cadar D, Schmidt-Chanasit J. _Detection and characterization
-of a novel rhabdovirus in Aedes cantans mosquitoes and evidence for a mosquito-
-associated new genus in the family Rhabdoviridae_. Infect Genet Evol. 2017
+Becker N, Tannich E, Cadar D, Schmidt-Chanasit J. *Detection and characterization of a novel rhabdovirus in Aedes cantans mosquitoes and evidence for a mosquito- associated new genus in the family Rhabdoviridae*. Infect Genet Evol. 2017
 Nov;55:260-268. doi: [https://doi.org/10.1016/j.meegid.2017.09.026](https://doi.org/10.1016/j.meegid.2017.09.026).
 
-27: Shahhosseini N, Chinikar S, Moosa-Kazemi SH, Sedaghat MM, Kayedi MH, Lühken
-R, Schmidt-Chanasit J. _West Nile virus lineage-2 in Culex specimens from Iran_.
+27: Shahhosseini N, Chinikar S, Moosa-Kazemi SH, Sedaghat MM, Kayedi MH, **Lühken R**, Schmidt-Chanasit J. *West Nile virus lineage-2 in Culex specimens from Iran*.
 Trop Med Int Health. 2017 Oct;22(10):1343-1349. doi: [https://doi.org/10.1111/tmi.12935](https://doi.org/10.1111/tmi.12935).
 
 26: Cadar D, **Lühken R**, van der Jeugd H, Garigliany M, Ziegler U, Keller M,
 Lahoreau J, Lachmann L, Becker N, Kik M, Oude Munnink BB, Bosch S, Tannich E,
 Linden A, Schmidt V, Koopmans MP, Rijks J, Desmecht D, Groschup MH, Reusken C,
-Schmidt-Chanasit J. _Widespread activity of multiple lineages of Usutu virus,
-Western Europe, 2016_. Euro Surveill. 2017 Jan 26;22(4):30452. doi: [https://doi.org/10.2807/1560-7917.ES.2017.22.4.30452](https://doi.org/10.2807/1560-7917.ES.2017.22.4.30452).
+Schmidt-Chanasit J. *Widespread activity of multiple lineages of Usutu virus, Western Europe, 2016*. Euro Surveill. 2017 Jan 26;22(4):30452. doi: [https://doi.org/10.2807/1560-7917.ES.2017.22.4.30452](https://doi.org/10.2807/1560-7917.ES.2017.22.4.30452).
 
 25: Heitmann A, Jansen S, **Lühken R**, Leggewie M, Badusche M, Pluskota B, Becker
-N, Vapalahti O, Schmidt-Chanasit J, Tannich E. _Experimental transmission of Zika
-virus by mosquitoes from Central Europe_. Euro Surveill. 2017 Jan 12;22(2):30437.
+N, Vapalahti O, Schmidt-Chanasit J, Tannich E. *Experimental transmission of Zika virus by mosquitoes from Central Europe*. Euro Surveill. 2017 Jan 12;22(2):30437.
 doi: [https://doi.org/10.2807/1560-7917.ES.2017.22.2.30437](https://doi.org/10.2807/1560-7917.ES.2017.22.2.30437).
 
 ### 2016
 24: Șuleșco T, von Thien H, Toderaș L, Toderaș I, **Lühken R**, Tannich E.
-_Circulation of Dirofilaria repens and Dirofilaria immitis in Moldova_. Parasit
+*Circulation of Dirofilaria repens and Dirofilaria immitis in Moldova*. Parasit
 Vectors. 2016 Dec 3;9(1):627. doi: [https://doi.org/10.1186/s13071-016-1916-4](https://doi.org/10.1186/s13071-016-1916-4).
 
 23: Börstler J, Jöst H, Garms R, Krüger A, Tannich E, Becker N, Schmidt-Chanasit
-J, **Lühken R**. _Host-feeding patterns of mosquito species in Germany_. Parasit
+J, **Lühken R**. *Host-feeding patterns of mosquito species in Germany*. Parasit
 Vectors. 2016 Jun 3;9(1):318. doi: [https://doi.org/10.1186/s13071-016-1597-z](https://doi.org/10.1186/s13071-016-1597-z).
 
 22: **Lühken R**, Gethmann JM, Kranz P, Steffenhagen P, Staubach C, Conraths FJ,
-Kiel E. _Comparison of single- and multi-scale models for the prediction of the
-Culicoides biting midge distribution in Germany_. Geospat Health. 2016 May
+Kiel E. *Comparison of single- and multi-scale models for the prediction of the Culicoides biting midge distribution in Germany*. Geospat Health. 2016 May
 31;11(2):405. doi: [https://doi.org/10.4081/gh.2016.405](https://doi.org/10.4081/gh.2016.405).
 
-21: Steinke S, **Lühken R**, Kiel E. _Impact of experimental flooding on larvae and
-pupae of dung-breeding Culicoides_. Parasitol Res. 2016 Oct;115(10):3825-30. doi: [https://doi.org/10.1007/s00436-016-5144-9](https://doi.org/10.1007/s00436-016-5144-9).
+21: Steinke S, **Lühken R**, Kiel E. *Impact of experimental flooding on larvae and pupae of dung-breeding Culicoides*. Parasitol Res. 2016 Oct;115(10):3825-30. doi: [https://doi.org/10.1007/s00436-016-5144-9](https://doi.org/10.1007/s00436-016-5144-9).
 
-20: Steinke S, **Lühken R**, Kroischke F, Timmermann E, Kiel E. _Comparison of
-emergence traps of different shape and translucency in the trapping of
-Culicoides (Diptera: Ceratopogonidae)_. Vet Parasitol. 2016 Jun 15;223:143-6.
+20: Steinke S, **Lühken R**, Kroischke F, Timmermann E, Kiel E. *Comparison of emergence traps of different shape and translucency in the trapping of Culicoides (Diptera: Ceratopogonidae)*. Vet Parasitol. 2016 Jun 15;223:143-6.
 doi: [https://doi.org/10.1016/j.vetpar.2016.04.037](https://doi.org/10.1016/j.vetpar.2016.04.037).
 
 19: Șuleșco T, Volkova T, Yashkova S, Tomazatos A, von Thien H, **Lühken R**,
-Tannich E. _Detection of Dirofilaria repens and Dirofilaria immitis DNA in
-mosquitoes from Belarus_. Parasitol Res. 2016 Sep;115(9):3535-41. doi: [https://doi.org/10.1007/s00436-016-5118-y](https://doi.org/10.1007/s00436-016-5118-y).
+Tannich E. *Detection of Dirofilaria repens and Dirofilaria immitis DNA in mosquitoes from Belarus*. Parasitol Res. 2016 Sep;115(9):3535-41. doi: [https://doi.org/10.1007/s00436-016-5118-y](https://doi.org/10.1007/s00436-016-5118-y).
 
 18: Török E, Tomazatos A, Cadar D, Horváth C, Keresztes L, Jansen S, Becker N,
-Kaiser A, Popescu O, Schmidt-Chanasit J, Jöst H, **Lühken R**. _Pilot longitudinal
-mosquito surveillance study in the Danube Delta Biosphere Reserve and the first
-reports of Anopheles algeriensis Theobald, 1903 and Aedes hungaricus Mihályi,
-1955 for Romania_. Parasit Vectors. 2016 Apr 11;9:196. doi: [https://doi.org/10.1186/s13071-016-1484-7](https://doi.org/10.1186/s13071-016-1484-7).
+Kaiser A, Popescu O, Schmidt-Chanasit J, Jöst H, **Lühken R**. *Pilot longitudinal mosquito surveillance study in the Danube Delta Biosphere Reserve and the first reports of Anopheles algeriensis Theobald, 1903 and Aedes hungaricus Mihályi, 1955 for Romania*. Parasit Vectors. 2016 Apr 11;9:196. doi: [https://doi.org/10.1186/s13071-016-1484-7](https://doi.org/10.1186/s13071-016-1484-7).
 
 17: Börstler J, Engel D, Petersen M, Poggensee C, Jansen S, Schmidt-Chanasit J,
-**Lühken R**. _Surveillance of maternal antibodies against West Nile virus in chicken
-eggs in South-West Germany_. Trop Med Int Health. 2016 May;21(5):687-90. doi: [https://doi.org/10.1111/tmi.12676](https://doi.org/10.1111/tmi.12676).
+**Lühken R**. *Surveillance of maternal antibodies against West Nile virus in chicken eggs in South-West Germany*. Trop Med Int Health. 2016 May;21(5):687-90. doi: [https://doi.org/10.1111/tmi.12676](https://doi.org/10.1111/tmi.12676).
 
 16: Engel D, Jöst H, Wink M, Börstler J, Bosch S, Garigliany MM, Jöst A, Czajka
 C, **Lühken R**, Ziegler U, Groschup MH, Pfeffer M, Becker N, Cadar D, Schmidt-
-Chanasit J. _Reconstruction of the evolutionary history and dispersal of Usutu
-virus, a neglected emerging arbovirus in Europe and Africa*. mBio. 2016 Feb
-2;7(1):e01938-15. doi: [https://doi.org/10.1128/mBio.01938-15](https://doi.org/10.1128/mBio.01938-15).
+Chanasit J. *Reconstruction of the evolutionary history and dispersal of Usutu virus, a neglected emerging arbovirus in Europe and Africa. mBio. 2016 Feb 2;7(1):e01938-15. doi: [https://doi.org/10.1128/mBio.01938-15](https://doi.org/10.1128/mBio.01938-15). 
 
-15: *Lühken R*, Czajka C, Steinke S, Jöst H, Schmidt-Chanasit J, Pfitzner W,
-Becker N, Kiel E, Krüger A, Tannich E. *Distribution of individual members of the
-mosquito Anopheles maculipennis complex in Germany identified by newly developed
-real-time PCR assays_. Med Vet Entomol. 2016 Jun;30(2):144-54. doi: [https://doi.org/10.1111/mve.12161](https://doi.org/10.1111/mve.12161).
+15: Lühken R, Czajka C, Steinke S, Jöst H, Schmidt-Chanasit J, Pfitzner W, Becker N, Kiel E, Krüger A, Tannich E. Distribution of individual members of the mosquito Anopheles maculipennis complex in Germany identified by newly developed real-time PCR assays*. Med Vet Entomol. 2016 Jun;30(2):144-54. doi: [https://doi.org/10.1111/mve.12161](https://doi.org/10.1111/mve.12161).
 
-14: Steinke S, **Lühken R**, Balczun C, Kiel E. _Emergence of Culicoides obsoletus
-group species from farm-associated habitats in Germany_. Med Vet Entomol. 2016
+14: Steinke S, **Lühken R**, Balczun C, Kiel E. *Emergence of Culicoides obsoletus group species from farm-associated habitats in Germany*. Med Vet Entomol. 2016
 Jun;30(2):174-84. doi: [https://doi.org/10.1111/mve.12159](https://doi.org/10.1111/mve.12159).
 
 ### 2015
-13: **Lühken R**, Steinke S, Hoppe N, Kiel E. _Effects of temperature and photoperiod
-on the development of overwintering immature Culicoides chiopterus and C*.
-dewulfi_. Vet Parasitol. 2015 Nov 30;214(1-2):195-9. doi: [https://doi.org/10.1016/j.vetpar.2015.10.001](https://doi.org/10.1016/j.vetpar.2015.10.001).
+13: **Lühken R**, Steinke S, Hoppe N, Kiel E. *Effects of temperature and photoperiod on the development of overwintering immature Culicoides chiopterus and C. dewulfi*. Vet Parasitol. 2015 Nov 30;214(1-2):195-9. doi: [https://doi.org/10.1016/j.vetpar.2015.10.001](https://doi.org/10.1016/j.vetpar.2015.10.001).
 
 12: **Lühken R**, Steinke S, Leggewie M, Tannich E, Krüger A, Becker S, Kiel E.
-_Physico-chemical characteristics of Culex pipiens sensu lato and Culex
-torrentium (Diptera: Culicidae) breeding sites in Germany_. J Med Entomol. 2015
+*Physico-chemical characteristics of Culex pipiens sensu lato and Culex torrentium (Diptera: Culicidae) breeding sites in Germany*. J Med Entomol. 2015
 Sep;52(5):932-6. doi: [https://doi.org/10.1093/jme/tjv070](https://doi.org/10.1093/jme/tjv070).
 
-11: Steinke S, **Lühken R**, Kiel E. _Impact of freezing on the emergence of
-Culicoides chiopterus and Culicoides dewulfi from bovine dung_. Vet Parasitol.
+11: Steinke S, **Lühken R**, Kiel E. *Impact of freezing on the emergence of Culicoides chiopterus and Culicoides dewulfi from bovine dung*. Vet Parasitol.
 2015 Apr 15;209(1-2):146-9. doi: [https://doi.org/10.1016/j.vetpar.2015.01.027](https://doi.org/10.1016/j.vetpar.2015.01.027).
 
-10: **Lühken R**, Kiel E, Steinke S, Fladung R. _Topsoil conditions correlate with
-the emergence rates of Culicoides chiopterus and Culicoides dewulfi (Diptera:
-Ceratopogonidae) from cowpats_. Parasitol Res. 2015 Mar;114(3):1113-7. doi: [https://doi.org/10.1007/s00436-014-4284-z](https://doi.org/10.1007/s00436-014-4284-z).
+10: **Lühken R**, Kiel E, Steinke S, Fladung R. *Topsoil conditions correlate with the emergence rates of Culicoides chiopterus and Culicoides dewulfi (Diptera: Ceratopogonidae) from cowpats*. Parasitol Res. 2015 Mar;114(3):1113-7. doi: [https://doi.org/10.1007/s00436-014-4284-z](https://doi.org/10.1007/s00436-014-4284-z).
 
 ### 2014
-9: **Lühken R**, Kiel E, Steinke S. _Culicoides biting midge density in relation to
-the position and substrate temperature in a cattle dung heap_. Parasitol Res.
+9: **Lühken R**, Kiel E, Steinke S. *Culicoides biting midge density in relation to the position and substrate temperature in a cattle dung heap*. Parasitol Res.
 2014 Dec;113(12):4659-62. doi: [https://doi.org/10.1007/s00436-014-4182-4](https://doi.org/10.1007/s00436-014-4182-4).
 
-8: Steinke S, **Lühken R**, Kiel E. _Assessment of the abundance of Culicoides
-chiopterus and Culicoides dewulfi in bovine dung: a comparison of larvae
-extraction techniques and emergence traps_. Vet Parasitol. 2014 Sep
+8: Steinke S, **Lühken R**, Kiel E. *Assessment of the abundance of Culicoides chiopterus and Culicoides dewulfi in bovine dung: a comparison of larvae extraction techniques and emergence traps*. Vet Parasitol. 2014 Sep
 15;205(1-2):255-62. doi: [https://doi.org/10.1016/j.vetpar.2014.07.030](https://doi.org/10.1016/j.vetpar.2014.07.030).
 
-7: **Lühken R**, Steinke S, Wittmann A, Kiel E. _Impact of flooding on the immature
-stages of dung-breeding culicoides in northern europe_. Vet Parasitol. 2014 Sep
+7: **Lühken R**, Steinke S, Wittmann A, Kiel E. *Impact of flooding on the immature stages of dung-breeding culicoides in northern europe*. Vet Parasitol. 2014 Sep
 15;205(1-2):289-94. doi: [https://doi.org/10.1016/j.vetpar.2014.06.016](https://doi.org/10.1016/j.vetpar.2014.06.016).
 
 6: **Lühken R**, Pfitzner WP, Börstler J, Garms R, Huber K, Schork N, Steinke S,
-Kiel E, Becker N, Tannich E, Krüger A. _Field evaluation of four widely used
-mosquito traps in central Europe_. Parasit Vectors. 2014 Jun 12;7:268. doi: [https://doi.org/10.1186/1756-3305-7-268](https://doi.org/10.1186/1756-3305-7-268).
+Kiel E, Becker N, Tannich E, Krüger A. *Field evaluation of four widely used mosquito traps in central Europe*. Parasit Vectors. 2014 Jun 12;7:268. doi: [https://doi.org/10.1186/1756-3305-7-268](https://doi.org/10.1186/1756-3305-7-268).
 
-5: Krüger A, Börstler J, Badusche M, **Lühken R**, Garms R, Tannich E. _Mosquitoes
-(Diptera: Culicidae) of metropolitan Hamburg, Germany_. Parasitol Res. 2014
+5: Krüger A, Börstler J, Badusche M, **Lühken R**, Garms R, Tannich E. *Mosquitoes (Diptera: Culicidae) of metropolitan Hamburg, Germany*. Parasitol Res. 2014
 Aug;113(8):2907-14. doi: [https://doi.org/10.1007/s00436-014-3952-3](https://doi.org/10.1007/s00436-014-3952-3).
 
 4: Börstler J, **Lühken R**, Rudolf M, Steinke S, Melaun C, Becker S, Garms R,
-Krüger A. _The use of morphometric wing characters to discriminate female Culex
-pipiens and Culex torrentium_. J Vector Ecol. 2014 Jun;39(1):204-12. doi: [https://doi.org/10.1111/j.1948-7134.2014.12088.x](https://doi.org/10.1111/j.1948-7134.2014.12088.x).
+Krüger A. *The use of morphometric wing characters to discriminate female Culex pipiens and Culex torrentium*. J Vector Ecol. 2014 Jun;39(1):204-12. doi: [https://doi.org/10.1111/j.1948-7134.2014.12088.x](https://doi.org/10.1111/j.1948-7134.2014.12088.x).
 
-3: **Lühken R**, Kiel E, Steinke S. _Impact of mechanical disturbance on the
-emergence of Culicoides from cowpats_. Parasitol Res. 2014 Apr;113(4):1283-7.
+3: **Lühken R**, Kiel E, Steinke S. *Impact of mechanical disturbance on the emergence of Culicoides from cowpats*. Parasitol Res. 2014 Apr;113(4):1283-7.
 doi: [https://doi.org/10.1007/s00436-014-3766-3](https://doi.org/10.1007/s00436-014-3766-3).
 
 ### 2013
 2: Becker N, Geier M, Balczun C, Bradersen U, Huber K, Kiel E, Krüger A,
-**Lühken R**, Orendt C, Plenge-Bönig A, Rose A, Schaub GA, Tannich E. _Repeated
-introduction of Aedes albopictus into Germany, July to October 2012_. Parasitol
+**Lühken R**, Orendt C, Plenge-Bönig A, Rose A, Schaub GA, Tannich E. *Repeated introduction of Aedes albopictus into Germany, July to October 2012*. Parasitol
 Res. 2013 Apr;112(4):1787-90. doi: [https://doi.org/10.1007/s00436-012-3230-1](https://doi.org/10.1007/s00436-012-3230-1).
 
 ### 2012
-1: **Lühken R**, Kiel E. _Distance from the stable affects trapping of biting
-midges (Diptera, Ceratopogonidae)_. J Vector Ecol. 2012 Dec;37(2):453-7. doi: [https://doi.org/10.1111/j.1948-7134.2012.00250.x](https://doi.org/10.1111/j.1948-7134.2012.00250.x).
+1: **Lühken R**, Kiel E. *Distance from the stable affects trapping of biting midges (Diptera, Ceratopogonidae)*. J Vector Ecol. 2012 Dec;37(2):453-7. doi: [https://doi.org/10.1111/j.1948-7134.2012.00250.x](https://doi.org/10.1111/j.1948-7134.2012.00250.x).
