@@ -145,7 +145,7 @@ Mar;57(3):256-277. doi: [https://doi.org/10.1080/23744235.2024.2419859](https://
 
 88: Grabow M, Ullmann W, Landgraf C, Sollmann R, Scholz C, Nathan R, Toledo S,
 **Lühken R**, Fickel J, Jeltsch F, Blaum N, Radchuk V, Tiedemann R, Kramer-Schadt S.
-**Sick without signs*. Subclinical infections reduce local movements, alter habitat
+*Sick without signs. Subclinical infections reduce local movements, alter habitat
 selection, and cause demographic shifts*. Commun Biol. 2024 Nov 1;7(1):1426. doi: [https://doi.org/10.1038/s42003-024-07114-4](https://doi.org/10.1038/s42003-024-07114-4).
 
 87: Hattendorf C, Cadar D, Bosch S, Becker N, Lachmann L, Schmidt-Chanasit J,
@@ -159,7 +159,7 @@ learning*. Parasit Vectors. 2024 Sep 2;17(1):372. doi: [https://doi.org/10.1186/
 85: Wehmeyer ML, Jaworski L, Jöst H, Șuleșco T, Rauhöft L, Afonso SMM, Neumann
 M, Kliemke K, Lange U, Kiel E, Schmidt-Chanasit J, Sauer FG, **Lühken R**. *Host
 attraction and host feeding patterns indicate generalist feeding of Culex
-pipiens s.s*. and Cx. torrentium*. Parasit Vectors. 2024 Aug 30;17(1):369. doi: [https://doi.org/10.1186/s13071-024-06439-7](https://doi.org/10.1186/s13071-024-06439-7).
+pipiens s.s. and Cx. torrentium*. Parasit Vectors. 2024 Aug 30;17(1):369. doi: [https://doi.org/10.1186/s13071-024-06439-7](https://doi.org/10.1186/s13071-024-06439-7).
 
 84: Vanslembrouck A, Jansen S, De Witte J, Janssens C, Vereecken S, Helms M,
 Lange U, **Lühken R**, Schmidt-Chanasit J, Heitmann A, Müller R. *Larval competition
