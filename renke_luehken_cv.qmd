@@ -18,7 +18,6 @@ format:
 Bernhard Nocht Institute for Tropical Medicine
 Research Group Arbovirus Ecology & Research Group Vector Control  
 20359 Hamburg, Germany  
-+49 40 285380-862  
 [luehken@bnitm.de](mailto:luehken@bnitm.de)
 
 ---
