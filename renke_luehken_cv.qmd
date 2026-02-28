@@ -15,8 +15,8 @@ format:
 ## Contact
 
 **Dr. Renke Lühken**<br>
-Bernhard Nocht Institute for Tropical Medicine
-Research Group Arbovirus Ecology & Research Group Vector Control  
+Bernhard Nocht Institute for Tropical Medicine<br>
+Research Group Arbovirus Ecology & Research Group Vector Control <br>
 20359 Hamburg, Germany  
 [luehken@bnitm.de](mailto:luehken@bnitm.de)
 
@@ -74,8 +74,7 @@ Full list of publications available on [Google Scholar](https://scholar.google.c
 {{< include scholar_metrics.md >}}
 
 ### 2026
-101: Loc DH, Șuleşco T, Sauer FG, Schmidt-Chanasit J, Velavan TP, **Lühken R**. *Host-
-feeding patterns of mosquitoes across land use types and regions in Vietnam and
+101: Loc DH, Șuleşco T, Sauer FG, Schmidt-Chanasit J, Velavan TP, **Lühken R**. *Host-feeding patterns of mosquitoes across land use types and regions in Vietnam and
 its implications for mosquito-borne disease transmission*. Acta Trop. 2026
 Mar;275:108001. doi: [https://doi.org/10.1016/j.actatropica.2026.108001](https://doi.org/10.1016/j.actatropica.2026.108001).
 
