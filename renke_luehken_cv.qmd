@@ -16,9 +16,9 @@ format:
 
 ## Contact
 
-**Dr. Renke Lühken**<br>
-Bernhard Nocht Institute for Tropical Medicine<br>
-Research Group Arbovirus Ecology & Research Group Vector Control <br>
+**Dr. Renke Lühken**  
+Bernhard Nocht Institute for Tropical Medicine  
+Research Group Arbovirus Ecology & Research Group Vector Control  
 20359 Hamburg, Germany  
 [luehken@bnitm.de](mailto:luehken@bnitm.de)
 
