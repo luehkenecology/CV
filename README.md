@@ -1,2 +1,2 @@
 # CV
-CV and publication list
+CV and publication list:  https://luehkenecology.github.io/CV/
