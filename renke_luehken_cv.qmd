@@ -12,6 +12,8 @@ format:
     geometry: margin=2.5cm
 ---
 
+  **Last updated:** 1 March 2026
+
 ## Contact
 
 **Dr. Renke Lühken**<br>
